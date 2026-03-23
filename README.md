@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dodge AI — Order-to-Cash Graph Explorer
 
 A **Graph-Based Data Modeling and Query System** built for the Dodge AI Forward Deployed Engineer (FDE) hiring assignment.
@@ -235,3 +236,6 @@ dodge-ai-fde/
 | LLM | Google Gemini 1.5 Flash (free tier) |
 | Data | JSON files (in-memory graph) |
 | Deploy | Vercel |
+=======
+# dodge-ai-o2c-graph-explorer
+>>>>>>> 96e8c16a5ccaee6e715011e6140e541c20d9c326
