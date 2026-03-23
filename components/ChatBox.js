@@ -10,11 +10,11 @@ import { useState, useRef, useEffect } from 'react';
 
 // Suggested example queries shown at start
 const EXAMPLE_QUERIES = [
-  'Which products are associated with the most billing documents?',
-  'Show me the full flow for billing document 90504259',
-  'Find sales orders that were delivered but not billed',
-  'Give me a summary of the dataset',
   'Show all customers',
+  'Which products are associated with the most billing documents?',
+  'Find sales orders that were delivered but not billed',
+  'Show orders for customer 310000108',
+  'Trace billing document 90504259',
 ];
 
 // Renders a single message bubble
@@ -35,7 +35,36 @@ function Message({ msg }) {
             ? 'bg-blue-600 text-white rounded-br-sm'
             : 'bg-slate-700 text-slate-100 rounded-bl-sm'
         }`}>
-          {msg.content}
+{msg.queryResult?.data ? (
+  <div>
+    <div className="mb-2 font-semibold text-blue-300">
+      {msg.queryResult.title || 'Results'} ({msg.queryResult.data.length})
+    </div>
+
+    <div className="max-h-40 overflow-y-auto space-y-1 text-xs">
+      {msg.queryResult.data.slice(0, 20).map((item, i) => (
+        <div
+          key={i}
+          className="bg-slate-800 px-2 py-1 rounded border border-slate-600"
+        >
+          <span className="text-blue-400">
+            {item.id || item.label}
+          </span>
+          {item.name && ` — ${item.name}`}
+          {item.value && ` (${item.value})`}
+        </div>
+      ))}
+    </div>
+
+    {msg.queryResult.data.length > 20 && (
+      <div className="text-xs text-slate-400 mt-1">
+        Showing first 20 results...
+      </div>
+    )}
+  </div>
+) : (
+  msg.content
+)}
         </div>
 
         {/* Query details accordion */}
@@ -130,9 +159,9 @@ export default function ChatBox({ onHighlightNodes }) {
       }]);
 
       // Tell parent to highlight nodes on graph
-      if (data.highlightNodes?.length && onHighlightNodes) {
-        onHighlightNodes(data.highlightNodes);
-      }
+     if (data.queryResult?.highlightIds?.length && onHighlightNodes) {
+  onHighlightNodes(data.queryResult.highlightIds);
+}
 
     } catch (e) {
       setError(e.message);

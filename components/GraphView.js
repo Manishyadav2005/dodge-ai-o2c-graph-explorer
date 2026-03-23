@@ -34,6 +34,7 @@ const NODE_LABELS = {
 
 export default function GraphView({ highlightNodes = [] }) {
   const [graphData, setGraphData]     = useState({ nodes: [], links: [] });
+  const [filteredData, setFilteredData] = useState(null);
   const [selectedNode, setSelectedNode] = useState(null);
   const [loading, setLoading]         = useState(true);
   const [error, setError]             = useState(null);
@@ -41,6 +42,7 @@ export default function GraphView({ highlightNodes = [] }) {
   const graphRef = useRef(null);
 
   const highlightSet = new Set(highlightNodes);
+  const isFiltering = highlightNodes.length > 0;
 
   // ── Load graph data on mount ─────────────────────────────────
   useEffect(() => {
@@ -67,13 +69,37 @@ export default function GraphView({ highlightNodes = [] }) {
     }
     loadGraph();
   }, []);
+  useEffect(() => {
+  if (!highlightNodes.length) {
+    setFilteredData(null);
+    return;
+  }
+
+  const highlightSet = new Set(highlightNodes);
+
+  // ✅ Filter nodes
+  const filteredNodes = graphData.nodes.filter(node =>
+    highlightSet.has(node.id)
+  );
+
+  // ✅ Filter links (only those connecting filtered nodes)
+  const filteredLinks = graphData.links.filter(link =>
+    highlightSet.has(link.source) && highlightSet.has(link.target)
+  );
+
+  setFilteredData({
+    nodes: filteredNodes,
+    links: filteredLinks,
+  });
+
+}, [highlightNodes, graphData]);
 
   // ── Custom node canvas rendering ─────────────────────────────
   const paintNode = useCallback((node, ctx, globalScale) => {
     const isHighlighted = highlightSet.has(node.id);
     const color  = NODE_COLORS[node.type] || '#94a3b8';
     const radius = isHighlighted ? 8 : (node.type === 'customer' ? 7 : 5);
-    const label  = node.label || node.id;
+   const label = String(node.id);
 
     // Glow effect for highlighted nodes
     if (isHighlighted) {
@@ -97,12 +123,14 @@ export default function GraphView({ highlightNodes = [] }) {
     }
 
     // Label at certain zoom levels
-    if (globalScale > 1.5 || isHighlighted) {
-      const fontSize = 10 / globalScale;
-      ctx.font = `${fontSize}px Inter, sans-serif`;
-      ctx.fillStyle = '#e2e8f0';
-      ctx.textAlign = 'center';
-      ctx.fillText(label.length > 15 ? label.slice(0, 15) + '…' : label, node.x, node.y + radius + fontSize + 2);
+    if (isHighlighted) {
+      const fontSize = 14 / globalScale;
+ctx.font = `${fontSize}px Inter, sans-serif`;
+ctx.fillStyle = '#FFD700';
+ctx.textAlign = 'center';
+
+// ID show karo (NO truncate)
+ctx.fillText(label, node.x, node.y - 10);
     }
   }, [selectedNode, highlightNodes]);
 
@@ -158,7 +186,7 @@ export default function GraphView({ highlightNodes = [] }) {
       <div className="flex-1 bg-slate-900 rounded-lg border border-slate-700 overflow-hidden relative">
         <ForceGraph2D
           ref={graphRef}
-          graphData={graphData}
+       graphData={graphData}
           nodeCanvasObject={paintNode}
           nodeCanvasObjectMode={() => 'replace'}
           linkColor={() => '#334155'}

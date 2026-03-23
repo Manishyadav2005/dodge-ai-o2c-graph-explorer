@@ -30,6 +30,7 @@ export async function POST(request) {
 
     // ── Step 2: Classify query with LLM ──────────────────────────
     const { intent, explanation } = await classifyQuery(trimmedQuery);
+    
 
     // ── Step 3: Guardrail – reject irrelevant queries ─────────────
    if (!intent || !intent.type || intent.type === 'irrelevant') {
@@ -46,6 +47,8 @@ export async function POST(request) {
 
 try {
   queryResult = executeQuery(intent);
+  console.log("🔥 INTENT:", intent);
+console.log("🔥 RESULT:", queryResult);
 } catch (err) {
   console.error("❌ executeQuery failed:", err.message);
 
@@ -70,7 +73,14 @@ try {
     let answer = "";
 
 try {
-  answer = await generateAnswer(trimmedQuery, queryResult);
+  if (queryResult.type === 'result' && queryResult.data) {
+  // ✅ Use structured summary instead of LLM
+  answer = queryResult.summary || "Result generated from data.";
+} else {
+  // ── Step 5: Generate answer (DATA-DRIVEN ONLY) ──────────
+
+answer = await generateAnswer(trimmedQuery, queryResult);
+}
 } catch (err) {
   console.error("❌ generateAnswer failed:", err.message);
   answer = queryResult.summary || "Answer generated from data.";
@@ -103,31 +113,26 @@ try {
 function extractHighlightNodes(intent, result) {
   const ids = [];
 
-  switch (result.type) {
-    case 'traceDocument': {
-      const flow = result.flow;
-      if (flow.customer?.id)   ids.push(String(flow.customer.id));
-      if (flow.salesOrder?.id) ids.push(String(flow.salesOrder.id));
-      if (flow.delivery?.id)   ids.push(String(flow.delivery.id));
-      if (flow.billing?.id)    ids.push(String(flow.billing.id));
-      flow.payment?.forEach(p => ids.push(`PAY-${p.id}`));
-      flow.deliveries?.forEach(d => ids.push(String(d.id)));
-      flow.billings?.forEach(b => ids.push(String(b.id)));
-      break;
+  // 🔥 CASE: Trace Billing / Document Flow
+  if (result.type === 'traceDocument' && result.flow) {
+    if (result.flow.billing?.id) {
+      ids.push(String(result.flow.billing.id));
     }
-    case 'topProductsByBilling': {
-      result.results?.forEach(r => ids.push(`PROD-${r.material}`));
-      break;
+
+    if (result.flow.salesOrder?.id) {
+      ids.push(String(result.flow.salesOrder.id));
     }
-    case 'brokenFlows': {
-      result.results?.slice(0, 10).forEach(r => ids.push(String(r.salesOrder)));
-      break;
+
+    if (result.flow.customer?.id) {
+      ids.push(String(result.flow.customer.id));
     }
-    case 'customerOrders': {
-      if (result.customer?.customerId) ids.push(String(result.customer.customerId));
-      result.orders?.forEach(o => ids.push(String(o.id)));
-      break;
-    }
+  }
+
+  // 🔥 CASE: Top Products
+  if (result.type === 'topProductsByBilling') {
+    result.results?.forEach(r => {
+      ids.push(`PROD-${r.material}`);
+    });
   }
 
   return ids;
