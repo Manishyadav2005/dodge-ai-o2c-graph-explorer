@@ -1,0 +1,58 @@
+[
+  {
+    "customerId": "310000108",
+    "name": "Cardenas, Parker and Avila",
+    "category": "2",
+    "isBlocked": false,
+    "creationDate": "2024-04-16T00:00:00.000Z"
+  },
+  {
+    "customerId": "310000109",
+    "name": "Bradley-Kelley",
+    "category": "2",
+    "isBlocked": false,
+    "creationDate": "2024-04-16T00:00:00.000Z"
+  },
+  {
+    "customerId": "320000082",
+    "name": "Nguyen-Davis",
+    "category": "2",
+    "isBlocked": true,
+    "creationDate": "2024-11-20T00:00:00.000Z"
+  },
+  {
+    "customerId": "320000083",
+    "name": "Nelson, Fitzpatrick and Jordan",
+    "category": "2",
+    "isBlocked": true,
+    "creationDate": "2024-11-20T00:00:00.000Z"
+  },
+  {
+    "customerId": "320000085",
+    "name": "Hawkins Ltd",
+    "category": "2",
+    "isBlocked": true,
+    "creationDate": "2024-11-20T00:00:00.000Z"
+  },
+  {
+    "customerId": "320000088",
+    "name": "Flores-Simmons",
+    "category": "2",
+    "isBlocked": true,
+    "creationDate": "2024-11-20T00:00:00.000Z"
+  },
+  {
+    "customerId": "320000107",
+    "name": "Henderson, Garner and Graves",
+    "category": "2",
+    "isBlocked": true,
+    "creationDate": "2024-11-20T00:00:00.000Z"
+  },
+  {
+    "customerId": "320000108",
+    "name": "Melton Group",
+    "category": "2",
+    "isBlocked": true,
+    "creationDate": "2024-11-20T00:00:00.000Z"
+  }
+]

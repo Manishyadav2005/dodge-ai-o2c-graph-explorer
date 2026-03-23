@@ -1,0 +1,1202 @@
+[
+  {
+    "accountingDocument": "9400000220",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 897.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635977"
+  },
+  {
+    "accountingDocument": "9400000226",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 897,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635973"
+  },
+  {
+    "accountingDocument": "9400000231",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 897.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635969"
+  },
+  {
+    "accountingDocument": "9400000238",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 597,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635964"
+  },
+  {
+    "accountingDocument": "9400000239",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1017.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635963"
+  },
+  {
+    "accountingDocument": "9400000240",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 897.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635962"
+  },
+  {
+    "accountingDocument": "9400000243",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 536.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635960"
+  },
+  {
+    "accountingDocument": "9400000246",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1167,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635958"
+  },
+  {
+    "accountingDocument": "9400000247",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 783.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635957"
+  },
+  {
+    "accountingDocument": "9400000268",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1194.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635943"
+  },
+  {
+    "accountingDocument": "9400000270",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 678.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635942"
+  },
+  {
+    "accountingDocument": "9400000271",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1614,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635941"
+  },
+  {
+    "accountingDocument": "9400000272",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1494,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635940"
+  },
+  {
+    "accountingDocument": "9400000274",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1493.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635939"
+  },
+  {
+    "accountingDocument": "9400000275",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 897.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635938"
+  },
+  {
+    "accountingDocument": "9400000277",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 761.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635937"
+  },
+  {
+    "accountingDocument": "9400000281",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 761.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635934"
+  },
+  {
+    "accountingDocument": "9400000284",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635932"
+  },
+  {
+    "accountingDocument": "9400000285",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635931"
+  },
+  {
+    "accountingDocument": "9400000286",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635930"
+  },
+  {
+    "accountingDocument": "9400000287",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635929"
+  },
+  {
+    "accountingDocument": "9400000289",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 729,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635928"
+  },
+  {
+    "accountingDocument": "9400000290",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 765,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635927"
+  },
+  {
+    "accountingDocument": "9400000291",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 765,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635926"
+  },
+  {
+    "accountingDocument": "9400000293",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1494,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635925"
+  },
+  {
+    "accountingDocument": "9400000294",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635924"
+  },
+  {
+    "accountingDocument": "9400000296",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635923"
+  },
+  {
+    "accountingDocument": "9400000298",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 761.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635921"
+  },
+  {
+    "accountingDocument": "9400000299",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1886.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635920"
+  },
+  {
+    "accountingDocument": "9400000301",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635919"
+  },
+  {
+    "accountingDocument": "9400172473",
+    "item": "1",
+    "customer": "320000082",
+    "amount": 591.18,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635861"
+  },
+  {
+    "accountingDocument": "9400172475",
+    "item": "1",
+    "customer": "320000082",
+    "amount": 1355.46,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635859"
+  },
+  {
+    "accountingDocument": "9400172476",
+    "item": "1",
+    "customer": "320000082",
+    "amount": 633.66,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635858"
+  },
+  {
+    "accountingDocument": "9400172477",
+    "item": "1",
+    "customer": "320000082",
+    "amount": 870.48,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635857"
+  },
+  {
+    "accountingDocument": "9400172478",
+    "item": "1",
+    "customer": "320000082",
+    "amount": 899.16,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635856"
+  },
+  {
+    "accountingDocument": "9400172479",
+    "item": "1",
+    "customer": "320000082",
+    "amount": 1058.46,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635855"
+  },
+  {
+    "accountingDocument": "9400172480",
+    "item": "1",
+    "customer": "320000082",
+    "amount": 2088.42,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635854"
+  },
+  {
+    "accountingDocument": "9400635986",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -885,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635986"
+  },
+  {
+    "accountingDocument": "9400635987",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -783.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635987"
+  },
+  {
+    "accountingDocument": "9400635988",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -813,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635988"
+  },
+  {
+    "accountingDocument": "9400000205",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 813,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635988"
+  },
+  {
+    "accountingDocument": "9400000206",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 783.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635987"
+  },
+  {
+    "accountingDocument": "9400000208",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 885,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635986"
+  },
+  {
+    "accountingDocument": "9400000209",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 882,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635985"
+  },
+  {
+    "accountingDocument": "9400000211",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635984"
+  },
+  {
+    "accountingDocument": "9400000212",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635983"
+  },
+  {
+    "accountingDocument": "9400000213",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635982"
+  },
+  {
+    "accountingDocument": "9400000216",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635980"
+  },
+  {
+    "accountingDocument": "9400000218",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635979"
+  },
+  {
+    "accountingDocument": "9400000219",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1167,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635978"
+  },
+  {
+    "accountingDocument": "9400000222",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635976"
+  },
+  {
+    "accountingDocument": "9400000223",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1167,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635975"
+  },
+  {
+    "accountingDocument": "9400000224",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635974"
+  },
+  {
+    "accountingDocument": "9400000227",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 761.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635972"
+  },
+  {
+    "accountingDocument": "9400000228",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 657,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635971"
+  },
+  {
+    "accountingDocument": "9400000229",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1590.3,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635970"
+  },
+  {
+    "accountingDocument": "9400000232",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 765,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635968"
+  },
+  {
+    "accountingDocument": "9400000233",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 636,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635967"
+  },
+  {
+    "accountingDocument": "9400000235",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 761.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635966"
+  },
+  {
+    "accountingDocument": "9400000241",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 638.4,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635961"
+  },
+  {
+    "accountingDocument": "9400000244",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 7199.1,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635959"
+  },
+  {
+    "accountingDocument": "9400000250",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1986.42,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635956"
+  },
+  {
+    "accountingDocument": "9400000278",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 2983.95,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635936"
+  },
+  {
+    "accountingDocument": "9400000280",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1161.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635935"
+  },
+  {
+    "accountingDocument": "9400000282",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 1677.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635933"
+  },
+  {
+    "accountingDocument": "9400000297",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 2247.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635922"
+  },
+  {
+    "accountingDocument": "9400000302",
+    "item": "1",
+    "customer": "320000083",
+    "amount": 3864.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635918"
+  },
+  {
+    "accountingDocument": "9400635854",
+    "item": "1",
+    "customer": "320000082",
+    "amount": -2088.42,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635854"
+  },
+  {
+    "accountingDocument": "9400635855",
+    "item": "1",
+    "customer": "320000082",
+    "amount": -1058.46,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635855"
+  },
+  {
+    "accountingDocument": "9400635856",
+    "item": "1",
+    "customer": "320000082",
+    "amount": -899.16,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635856"
+  },
+  {
+    "accountingDocument": "9400635857",
+    "item": "1",
+    "customer": "320000082",
+    "amount": -870.48,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635857"
+  },
+  {
+    "accountingDocument": "9400635858",
+    "item": "1",
+    "customer": "320000082",
+    "amount": -633.66,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635858"
+  },
+  {
+    "accountingDocument": "9400635859",
+    "item": "1",
+    "customer": "320000082",
+    "amount": -1355.46,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635859"
+  },
+  {
+    "accountingDocument": "9400635861",
+    "item": "1",
+    "customer": "320000082",
+    "amount": -591.18,
+    "currency": "INR",
+    "clearingDate": "2025-05-16T00:00:00.000Z",
+    "postingDate": "2025-05-16T00:00:00.000Z",
+    "clearingDocument": "9400635861"
+  },
+  {
+    "accountingDocument": "9400635918",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -3864.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635918"
+  },
+  {
+    "accountingDocument": "9400635919",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635919"
+  },
+  {
+    "accountingDocument": "9400635920",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1886.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635920"
+  },
+  {
+    "accountingDocument": "9400635921",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -761.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635921"
+  },
+  {
+    "accountingDocument": "9400635922",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -2247.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635922"
+  },
+  {
+    "accountingDocument": "9400635923",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1644.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635923"
+  },
+  {
+    "accountingDocument": "9400635946",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1704.3,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635946"
+  },
+  {
+    "accountingDocument": "9400635947",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -2986.77,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635947"
+  },
+  {
+    "accountingDocument": "9400635948",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1493.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635948"
+  },
+  {
+    "accountingDocument": "9400635949",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -897.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635949"
+  },
+  {
+    "accountingDocument": "9400635950",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1329,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635950"
+  },
+  {
+    "accountingDocument": "9400635951",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -636,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635951"
+  },
+  {
+    "accountingDocument": "9400635952",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1556.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635952"
+  },
+  {
+    "accountingDocument": "9400635953",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1556.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635953"
+  },
+  {
+    "accountingDocument": "9400635954",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1521,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635954"
+  },
+  {
+    "accountingDocument": "9400635955",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1497,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635955"
+  },
+  {
+    "accountingDocument": "9400635956",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1986.42,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635956"
+  },
+  {
+    "accountingDocument": "9400635957",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -783.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635957"
+  },
+  {
+    "accountingDocument": "9400635958",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1167,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635958"
+  },
+  {
+    "accountingDocument": "9400635959",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -7199.1,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635959"
+  },
+  {
+    "accountingDocument": "9400635960",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -536.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635960"
+  },
+  {
+    "accountingDocument": "9400635961",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -638.4,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635961"
+  },
+  {
+    "accountingDocument": "9400635962",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -897.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635962"
+  },
+  {
+    "accountingDocument": "9400635963",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1017.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635963"
+  },
+  {
+    "accountingDocument": "9400635964",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -597,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635964"
+  },
+  {
+    "accountingDocument": "9400635965",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1100.1,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635965"
+  },
+  {
+    "accountingDocument": "9400635966",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -761.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635966"
+  },
+  {
+    "accountingDocument": "9400635967",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -636,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635967"
+  },
+  {
+    "accountingDocument": "9400635968",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -765,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635968"
+  },
+  {
+    "accountingDocument": "9400635969",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -897.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635969"
+  },
+  {
+    "accountingDocument": "9400635970",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1590.3,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635970"
+  },
+  {
+    "accountingDocument": "9400635971",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -657,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635971"
+  },
+  {
+    "accountingDocument": "9400635972",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -761.97,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635972"
+  },
+  {
+    "accountingDocument": "9400635973",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -897,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635973"
+  },
+  {
+    "accountingDocument": "9400635974",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635974"
+  },
+  {
+    "accountingDocument": "9400635975",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1167,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635975"
+  },
+  {
+    "accountingDocument": "9400635976",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635976"
+  },
+  {
+    "accountingDocument": "9400635977",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -897.03,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635977"
+  },
+  {
+    "accountingDocument": "9400635978",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1167,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635978"
+  },
+  {
+    "accountingDocument": "9400635979",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635979"
+  },
+  {
+    "accountingDocument": "9400635980",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635980"
+  },
+  {
+    "accountingDocument": "9400635981",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -966,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635981"
+  },
+  {
+    "accountingDocument": "9400635982",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635982"
+  },
+  {
+    "accountingDocument": "9400635983",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635983"
+  },
+  {
+    "accountingDocument": "9400635984",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -1287,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635984"
+  },
+  {
+    "accountingDocument": "9400635985",
+    "item": "1",
+    "customer": "320000083",
+    "amount": -882,
+    "currency": "INR",
+    "clearingDate": "2025-04-02T00:00:00.000Z",
+    "postingDate": "2025-04-02T00:00:00.000Z",
+    "clearingDocument": "9400635985"
+  }
+]

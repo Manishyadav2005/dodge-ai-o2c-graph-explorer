@@ -1,0 +1,2452 @@
+[
+  {
+    "billingDocument": "90504204",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 229.66,
+    "currency": "INR",
+    "referenceDelivery": "80738040",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504206",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "netAmount": 221.19,
+    "currency": "INR",
+    "referenceDelivery": "80738041",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504207",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 250,
+    "currency": "INR",
+    "referenceDelivery": "80738042",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504208",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "netAmount": 249.15,
+    "currency": "INR",
+    "referenceDelivery": "80738043",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504210",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738044",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504211",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738045",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504212",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738046",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504215",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738048",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504217",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738049",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504218",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 329.66,
+    "currency": "INR",
+    "referenceDelivery": "80738050",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504219",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738051",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504221",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738052",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504222",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 329.66,
+    "currency": "INR",
+    "referenceDelivery": "80738053",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504223",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738054",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504225",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738055",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504226",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738056",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504227",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "netAmount": 185.59,
+    "currency": "INR",
+    "referenceDelivery": "80738057",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504228",
+    "item": "10",
+    "material": "S8907367038108",
+    "quantity": 1,
+    "netAmount": 208.52,
+    "currency": "INR",
+    "referenceDelivery": "80738058",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504228",
+    "item": "20",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 240.72,
+    "currency": "INR",
+    "referenceDelivery": "80738058",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504230",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738059",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504231",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 216.1,
+    "currency": "INR",
+    "referenceDelivery": "80738060",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504232",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 179.66,
+    "currency": "INR",
+    "referenceDelivery": "80738061",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504234",
+    "item": "10",
+    "material": "S8907367004448",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738062",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504237",
+    "item": "10",
+    "material": "S8907367028192",
+    "quantity": 1,
+    "netAmount": 168.64,
+    "currency": "INR",
+    "referenceDelivery": "80738064",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504238",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 287.29,
+    "currency": "INR",
+    "referenceDelivery": "80738065",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504239",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738066",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504241",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 180.34,
+    "currency": "INR",
+    "referenceDelivery": "80738067",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504242",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "netAmount": 151.69,
+    "currency": "INR",
+    "referenceDelivery": "80738068",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "20",
+    "material": "S8907367001836",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "30",
+    "material": "S8907367001874",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "40",
+    "material": "3001468",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "50",
+    "material": "S8907367001850",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "50"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "60",
+    "material": "S8907367001843",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "60"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "70",
+    "material": "3001456",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "70"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "80",
+    "material": "S8907367001867",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "80"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "90",
+    "material": "S8907367002550",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "90"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "100",
+    "material": "S8907367038108",
+    "quantity": 1,
+    "netAmount": 208.52,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "100"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "110",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "netAmount": 210.13,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "110"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "120",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 313.18,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "120"
+  },
+  {
+    "billingDocument": "90504245",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 329.66,
+    "currency": "INR",
+    "referenceDelivery": "80738070",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504246",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "netAmount": 221.19,
+    "currency": "INR",
+    "referenceDelivery": "80738071",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504249",
+    "item": "10",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "netAmount": 320.42,
+    "currency": "INR",
+    "referenceDelivery": "80738073",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504249",
+    "item": "20",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 240.72,
+    "currency": "INR",
+    "referenceDelivery": "80738073",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504250",
+    "item": "10",
+    "material": "S8907367041993",
+    "quantity": 1,
+    "netAmount": 422.88,
+    "currency": "INR",
+    "referenceDelivery": "80738074",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504252",
+    "item": "20",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738075",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504252",
+    "item": "30",
+    "material": "S8907367014447",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738075",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "90504253",
+    "item": "20",
+    "material": "S8907367035978",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504253",
+    "item": "30",
+    "material": "S8907367035992",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "90504253",
+    "item": "40",
+    "material": "S8907367035985",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "90504253",
+    "item": "50",
+    "material": "S8907367035961",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "50"
+  },
+  {
+    "billingDocument": "90504255",
+    "item": "20",
+    "material": "S8907367035961",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504255",
+    "item": "30",
+    "material": "S8907367035978",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "90504255",
+    "item": "40",
+    "material": "S8907367035985",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "90504255",
+    "item": "50",
+    "material": "S8907367035992",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "50"
+  },
+  {
+    "billingDocument": "90504256",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 179.66,
+    "currency": "INR",
+    "referenceDelivery": "80738078",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504257",
+    "item": "10",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "netAmount": 375.42,
+    "currency": "INR",
+    "referenceDelivery": "80738079",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504259",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738080",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504260",
+    "item": "10",
+    "material": "S8907367037156",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738081",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504262",
+    "item": "10",
+    "material": "S8907367003380",
+    "quantity": 1,
+    "netAmount": 240.72,
+    "currency": "INR",
+    "referenceDelivery": "80738082",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504262",
+    "item": "20",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "netAmount": 603.01,
+    "currency": "INR",
+    "referenceDelivery": "80738082",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504265",
+    "item": "20",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504265",
+    "item": "30",
+    "material": "S8907367036722",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "90504265",
+    "item": "40",
+    "material": "S8907367029021",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "90504265",
+    "item": "50",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "50"
+  },
+  {
+    "billingDocument": "90504265",
+    "item": "60",
+    "material": "S8907367029038",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "60"
+  },
+  {
+    "billingDocument": "90504266",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738085",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504376",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "netAmount": 221.19,
+    "currency": "INR",
+    "referenceDelivery": "80737922",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504406",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 179.66,
+    "currency": "INR",
+    "referenceDelivery": "80737921",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504253",
+    "item": "10",
+    "material": "B8907367037859",
+    "quantity": 1,
+    "netAmount": 439.83,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504255",
+    "item": "10",
+    "material": "B8907367037859",
+    "quantity": 1,
+    "netAmount": 439.83,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504265",
+    "item": "10",
+    "material": "B8907367037842",
+    "quantity": 1,
+    "netAmount": 761.86,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504252",
+    "item": "10",
+    "material": "B8907367015697",
+    "quantity": 1,
+    "netAmount": 429.66,
+    "currency": "INR",
+    "referenceDelivery": "80738075",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504243",
+    "item": "10",
+    "material": "B8907367002246",
+    "quantity": 1,
+    "netAmount": 1301.82,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504214",
+    "item": "10",
+    "material": "B8907367032571",
+    "quantity": 1,
+    "netAmount": 272.88,
+    "currency": "INR",
+    "referenceDelivery": "80738047",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504263",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 2,
+    "netAmount": 481.44,
+    "currency": "INR",
+    "referenceDelivery": "80738083",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504214",
+    "item": "20",
+    "material": "S8907367025412",
+    "quantity": 2,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738047",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504235",
+    "item": "10",
+    "material": "S8907367026433",
+    "quantity": 2,
+    "netAmount": 310.76,
+    "currency": "INR",
+    "referenceDelivery": "80738063",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150174",
+    "item": "10",
+    "material": "B8907367037842",
+    "quantity": 1,
+    "netAmount": 761.86,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "10",
+    "material": "B8907367002246",
+    "quantity": 1,
+    "netAmount": 1301.82,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "20",
+    "material": "S8907367001836",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "30",
+    "material": "S8907367001874",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "40",
+    "material": "3001468",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "50",
+    "material": "S8907367001850",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "50"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "60",
+    "material": "S8907367001843",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "60"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "70",
+    "material": "3001456",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "70"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "80",
+    "material": "S8907367001867",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "80"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "90",
+    "material": "S8907367002550",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "90"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "100",
+    "material": "S8907367038108",
+    "quantity": 1,
+    "netAmount": 208.52,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "100"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "110",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "netAmount": 210.13,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "110"
+  },
+  {
+    "billingDocument": "91150188",
+    "item": "120",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 313.18,
+    "currency": "INR",
+    "referenceDelivery": "80738069",
+    "referenceDeliveryItem": "120"
+  },
+  {
+    "billingDocument": "91150106",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 179.66,
+    "currency": "INR",
+    "referenceDelivery": "80737921",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150114",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "netAmount": 221.19,
+    "currency": "INR",
+    "referenceDelivery": "80737922",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150173",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738085",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150174",
+    "item": "20",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150174",
+    "item": "30",
+    "material": "S8907367036722",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "91150174",
+    "item": "40",
+    "material": "S8907367029021",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "91150174",
+    "item": "50",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "50"
+  },
+  {
+    "billingDocument": "91150174",
+    "item": "60",
+    "material": "S8907367029038",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738084",
+    "referenceDeliveryItem": "60"
+  },
+  {
+    "billingDocument": "91150175",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 2,
+    "netAmount": 481.44,
+    "currency": "INR",
+    "referenceDelivery": "80738083",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150176",
+    "item": "10",
+    "material": "S8907367003380",
+    "quantity": 1,
+    "netAmount": 240.72,
+    "currency": "INR",
+    "referenceDelivery": "80738082",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150176",
+    "item": "20",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "netAmount": 603.01,
+    "currency": "INR",
+    "referenceDelivery": "80738082",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150177",
+    "item": "10",
+    "material": "S8907367037156",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738081",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150178",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738080",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150179",
+    "item": "10",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "netAmount": 375.42,
+    "currency": "INR",
+    "referenceDelivery": "80738079",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150180",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 179.66,
+    "currency": "INR",
+    "referenceDelivery": "80738078",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150181",
+    "item": "10",
+    "material": "B8907367037859",
+    "quantity": 1,
+    "netAmount": 439.83,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150181",
+    "item": "20",
+    "material": "S8907367035961",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150181",
+    "item": "30",
+    "material": "S8907367035978",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "91150181",
+    "item": "40",
+    "material": "S8907367035985",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "91150181",
+    "item": "50",
+    "material": "S8907367035992",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738077",
+    "referenceDeliveryItem": "50"
+  },
+  {
+    "billingDocument": "91150182",
+    "item": "10",
+    "material": "B8907367037859",
+    "quantity": 1,
+    "netAmount": 439.83,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150182",
+    "item": "20",
+    "material": "S8907367035978",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150182",
+    "item": "30",
+    "material": "S8907367035992",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "91150182",
+    "item": "40",
+    "material": "S8907367035985",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "91150182",
+    "item": "50",
+    "material": "S8907367035961",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738076",
+    "referenceDeliveryItem": "50"
+  },
+  {
+    "billingDocument": "91150183",
+    "item": "10",
+    "material": "B8907367015697",
+    "quantity": 1,
+    "netAmount": 429.66,
+    "currency": "INR",
+    "referenceDelivery": "80738075",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150183",
+    "item": "20",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738075",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150183",
+    "item": "30",
+    "material": "S8907367014447",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738075",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "91150184",
+    "item": "10",
+    "material": "S8907367041993",
+    "quantity": 1,
+    "netAmount": 422.88,
+    "currency": "INR",
+    "referenceDelivery": "80738074",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150185",
+    "item": "10",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "netAmount": 320.42,
+    "currency": "INR",
+    "referenceDelivery": "80738073",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150185",
+    "item": "20",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 240.72,
+    "currency": "INR",
+    "referenceDelivery": "80738073",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150186",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "netAmount": 221.19,
+    "currency": "INR",
+    "referenceDelivery": "80738071",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150187",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 329.66,
+    "currency": "INR",
+    "referenceDelivery": "80738070",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150189",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "netAmount": 151.69,
+    "currency": "INR",
+    "referenceDelivery": "80738068",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150190",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 180.34,
+    "currency": "INR",
+    "referenceDelivery": "80738067",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150191",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738066",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150192",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 287.29,
+    "currency": "INR",
+    "referenceDelivery": "80738065",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150193",
+    "item": "10",
+    "material": "S8907367028192",
+    "quantity": 1,
+    "netAmount": 168.64,
+    "currency": "INR",
+    "referenceDelivery": "80738064",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150194",
+    "item": "10",
+    "material": "S8907367026433",
+    "quantity": 2,
+    "netAmount": 310.76,
+    "currency": "INR",
+    "referenceDelivery": "80738063",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150195",
+    "item": "10",
+    "material": "S8907367004448",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738062",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150196",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 179.66,
+    "currency": "INR",
+    "referenceDelivery": "80738061",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150197",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 216.1,
+    "currency": "INR",
+    "referenceDelivery": "80738060",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150198",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738059",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150199",
+    "item": "10",
+    "material": "S8907367038108",
+    "quantity": 1,
+    "netAmount": 208.52,
+    "currency": "INR",
+    "referenceDelivery": "80738058",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150199",
+    "item": "20",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 240.72,
+    "currency": "INR",
+    "referenceDelivery": "80738058",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150200",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "netAmount": 185.59,
+    "currency": "INR",
+    "referenceDelivery": "80738057",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150201",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738056",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150202",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738055",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150203",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738054",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150204",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 329.66,
+    "currency": "INR",
+    "referenceDelivery": "80738053",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150205",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738052",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150206",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738051",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150207",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 329.66,
+    "currency": "INR",
+    "referenceDelivery": "80738050",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150208",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738049",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150209",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738048",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150210",
+    "item": "10",
+    "material": "B8907367032571",
+    "quantity": 1,
+    "netAmount": 272.88,
+    "currency": "INR",
+    "referenceDelivery": "80738047",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150210",
+    "item": "20",
+    "material": "S8907367025412",
+    "quantity": 2,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738047",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150211",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738046",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150212",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738045",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150213",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "netAmount": 363.56,
+    "currency": "INR",
+    "referenceDelivery": "80738044",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150214",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "netAmount": 249.15,
+    "currency": "INR",
+    "referenceDelivery": "80738043",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150215",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 250,
+    "currency": "INR",
+    "referenceDelivery": "80738042",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150216",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "netAmount": 221.19,
+    "currency": "INR",
+    "referenceDelivery": "80738041",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150217",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 229.66,
+    "currency": "INR",
+    "referenceDelivery": "80738040",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504298",
+    "item": "10",
+    "material": "B8907367041603",
+    "quantity": 1,
+    "netAmount": 533.05,
+    "currency": "INR",
+    "referenceDelivery": "80738109",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90678703",
+    "item": "10",
+    "material": "B8907367032571",
+    "quantity": 1,
+    "netAmount": 305.9,
+    "currency": "INR",
+    "referenceDelivery": "80754606",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90678698",
+    "item": "10",
+    "material": "B8907367022152",
+    "quantity": 1,
+    "netAmount": 382.9,
+    "currency": "INR",
+    "referenceDelivery": "80754601",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504301",
+    "item": "10",
+    "material": "B8907367039570",
+    "quantity": 1,
+    "netAmount": 1091.53,
+    "currency": "INR",
+    "referenceDelivery": "80738111",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90678702",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 299,
+    "currency": "INR",
+    "referenceDelivery": "80754605",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90678703",
+    "item": "30",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 284.05,
+    "currency": "INR",
+    "referenceDelivery": "80754606",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "90628266",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "netAmount": 287.9,
+    "currency": "INR",
+    "referenceDelivery": "80754576",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90628265",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 245.9,
+    "currency": "INR",
+    "referenceDelivery": "80754575",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90678700",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 245.9,
+    "currency": "INR",
+    "referenceDelivery": "80754603",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90678699",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "netAmount": 179,
+    "currency": "INR",
+    "referenceDelivery": "80754602",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90678696",
+    "item": "10",
+    "material": "S8907367013587",
+    "quantity": 1,
+    "netAmount": 167,
+    "currency": "INR",
+    "referenceDelivery": "80754574",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90678698",
+    "item": "20",
+    "material": "S8907367011866",
+    "quantity": 2,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80754601",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90678703",
+    "item": "20",
+    "material": "S8907367025412",
+    "quantity": 2,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80754606",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504279",
+    "item": "20",
+    "material": "S8907367013082",
+    "quantity": 2,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738094",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504279",
+    "item": "10",
+    "material": "B8907367032649",
+    "quantity": 1,
+    "netAmount": 327.97,
+    "currency": "INR",
+    "referenceDelivery": "80738094",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150083",
+    "item": "10",
+    "material": "B8907367032571",
+    "quantity": 1,
+    "netAmount": 305.9,
+    "currency": "INR",
+    "referenceDelivery": "80754606",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150083",
+    "item": "20",
+    "material": "S8907367025412",
+    "quantity": 2,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80754606",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150083",
+    "item": "30",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 284.05,
+    "currency": "INR",
+    "referenceDelivery": "80754606",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "91150084",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "netAmount": 299,
+    "currency": "INR",
+    "referenceDelivery": "80754605",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150085",
+    "item": "10",
+    "material": "S8907367004448",
+    "quantity": 1,
+    "netAmount": 254,
+    "currency": "INR",
+    "referenceDelivery": "80754604",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150086",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "netAmount": 245.9,
+    "currency": "INR",
+    "referenceDelivery": "80754603",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150087",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "netAmount": 179,
+    "currency": "INR",
+    "referenceDelivery": "80754602",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150088",
+    "item": "10",
+    "material": "B8907367022152",
+    "quantity": 1,
+    "netAmount": 382.9,
+    "currency": "INR",
+    "referenceDelivery": "80754601",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150088",
+    "item": "20",
+    "material": "S8907367011866",
+    "quantity": 2,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80754601",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150090",
+    "item": "10",
+    "material": "S8907367013587",
+    "quantity": 1,
+    "netAmount": 167,
+    "currency": "INR",
+    "referenceDelivery": "80754574",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150147",
+    "item": "10",
+    "material": "B8907367039570",
+    "quantity": 1,
+    "netAmount": 1091.53,
+    "currency": "INR",
+    "referenceDelivery": "80738111",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150147",
+    "item": "20",
+    "material": "S8907367015277",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738111",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150147",
+    "item": "30",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738111",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "91150147",
+    "item": "40",
+    "material": "S8907367020042",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738111",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "91150148",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738110",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150149",
+    "item": "10",
+    "material": "B8907367041603",
+    "quantity": 1,
+    "netAmount": 533.05,
+    "currency": "INR",
+    "referenceDelivery": "80738109",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150149",
+    "item": "20",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738109",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150149",
+    "item": "30",
+    "material": "S8907367029021",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738109",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "91150149",
+    "item": "40",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738109",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "91150150",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738108",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150151",
+    "item": "10",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "netAmount": 634.75,
+    "currency": "INR",
+    "referenceDelivery": "80738107",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150152",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738106",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150153",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738105",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150154",
+    "item": "10",
+    "material": "S8907367031635",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738104",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150155",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 216.1,
+    "currency": "INR",
+    "referenceDelivery": "80738103",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150156",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 216.1,
+    "currency": "INR",
+    "referenceDelivery": "80738102",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150157",
+    "item": "10",
+    "material": "S8907367002499",
+    "quantity": 1,
+    "netAmount": 205.93,
+    "currency": "INR",
+    "referenceDelivery": "80738101",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150158",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738100",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150159",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738099",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150160",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738098",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150161",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738097",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150162",
+    "item": "10",
+    "material": "S8907367039303",
+    "quantity": 1,
+    "netAmount": 473.73,
+    "currency": "INR",
+    "referenceDelivery": "80738096",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150163",
+    "item": "10",
+    "material": "S8907367003311",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738095",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150164",
+    "item": "10",
+    "material": "B8907367032649",
+    "quantity": 1,
+    "netAmount": 327.97,
+    "currency": "INR",
+    "referenceDelivery": "80738094",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150164",
+    "item": "20",
+    "material": "S8907367013082",
+    "quantity": 2,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738094",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150165",
+    "item": "10",
+    "material": "S8907367041993",
+    "quantity": 1,
+    "netAmount": 401.74,
+    "currency": "INR",
+    "referenceDelivery": "80738093",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150165",
+    "item": "20",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 441.19,
+    "currency": "INR",
+    "referenceDelivery": "80738093",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "91150166",
+    "item": "10",
+    "material": "S8907367003311",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738092",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150167",
+    "item": "10",
+    "material": "S8907367003380",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738091",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150168",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738090",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150169",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738089",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150170",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "netAmount": 455.93,
+    "currency": "INR",
+    "referenceDelivery": "80738088",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150171",
+    "item": "10",
+    "material": "S8907367014867",
+    "quantity": 1,
+    "netAmount": 191.53,
+    "currency": "INR",
+    "referenceDelivery": "80738087",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "91150172",
+    "item": "10",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "netAmount": 337.29,
+    "currency": "INR",
+    "referenceDelivery": "80738086",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504248",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 216.1,
+    "currency": "INR",
+    "referenceDelivery": "80738072",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504267",
+    "item": "10",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "netAmount": 337.29,
+    "currency": "INR",
+    "referenceDelivery": "80738086",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504269",
+    "item": "10",
+    "material": "S8907367014867",
+    "quantity": 1,
+    "netAmount": 191.53,
+    "currency": "INR",
+    "referenceDelivery": "80738087",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504270",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "netAmount": 455.93,
+    "currency": "INR",
+    "referenceDelivery": "80738088",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504272",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738089",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504273",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738090",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504274",
+    "item": "10",
+    "material": "S8907367003380",
+    "quantity": 1,
+    "netAmount": 253.39,
+    "currency": "INR",
+    "referenceDelivery": "80738091",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504276",
+    "item": "10",
+    "material": "S8907367003311",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738092",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504277",
+    "item": "10",
+    "material": "S8907367041993",
+    "quantity": 1,
+    "netAmount": 401.74,
+    "currency": "INR",
+    "referenceDelivery": "80738093",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504277",
+    "item": "20",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 441.19,
+    "currency": "INR",
+    "referenceDelivery": "80738093",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504280",
+    "item": "10",
+    "material": "S8907367003311",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738095",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504281",
+    "item": "10",
+    "material": "S8907367039303",
+    "quantity": 1,
+    "netAmount": 473.73,
+    "currency": "INR",
+    "referenceDelivery": "80738096",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504283",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738097",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504284",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738098",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504285",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738099",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504286",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738100",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504288",
+    "item": "10",
+    "material": "S8907367002499",
+    "quantity": 1,
+    "netAmount": 205.93,
+    "currency": "INR",
+    "referenceDelivery": "80738101",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504289",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 216.1,
+    "currency": "INR",
+    "referenceDelivery": "80738102",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504290",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "netAmount": 216.1,
+    "currency": "INR",
+    "referenceDelivery": "80738103",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504292",
+    "item": "10",
+    "material": "S8907367031635",
+    "quantity": 1,
+    "netAmount": 422.03,
+    "currency": "INR",
+    "referenceDelivery": "80738104",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504293",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738105",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504295",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738106",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504296",
+    "item": "10",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "netAmount": 634.75,
+    "currency": "INR",
+    "referenceDelivery": "80738107",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504297",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "netAmount": 215.25,
+    "currency": "INR",
+    "referenceDelivery": "80738108",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504298",
+    "item": "20",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738109",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504298",
+    "item": "30",
+    "material": "S8907367029021",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738109",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "90504298",
+    "item": "40",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738109",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "90504300",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "netAmount": 464.41,
+    "currency": "INR",
+    "referenceDelivery": "80738110",
+    "referenceDeliveryItem": "10"
+  },
+  {
+    "billingDocument": "90504301",
+    "item": "20",
+    "material": "S8907367015277",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738111",
+    "referenceDeliveryItem": "20"
+  },
+  {
+    "billingDocument": "90504301",
+    "item": "30",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738111",
+    "referenceDeliveryItem": "30"
+  },
+  {
+    "billingDocument": "90504301",
+    "item": "40",
+    "material": "S8907367020042",
+    "quantity": 1,
+    "netAmount": 0,
+    "currency": "INR",
+    "referenceDelivery": "80738111",
+    "referenceDeliveryItem": "40"
+  },
+  {
+    "billingDocument": "90678701",
+    "item": "10",
+    "material": "S8907367004448",
+    "quantity": 1,
+    "netAmount": 254,
+    "currency": "INR",
+    "referenceDelivery": "80754604",
+    "referenceDeliveryItem": "10"
+  }
+]

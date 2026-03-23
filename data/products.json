@@ -1,0 +1,416 @@
+[
+  {
+    "material": "3001456",
+    "productType": "ZPKG",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "3001468",
+    "productType": "ZPKG",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367002246",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367015697",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367022152",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367032571",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367032649",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367037842",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367037859",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367000327",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367001003",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367001836",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367001843",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367001850",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367001867",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367001874",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367002512",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367002550",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367003311",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367003380",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367004448",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367008620",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367010814",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367011866",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367013082",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367013532",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367013587",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367014447",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367014867",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367016144",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367020035",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367020073",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367025344",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367025412",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367026433",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367028192",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367029021",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367029038",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367035664",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367035961",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367035978",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367035985",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367035992",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367036722",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367037156",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367038108",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367038122",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367039280",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367041993",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367042006",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367022787",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367024125",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367028406",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367039570",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "B8907367041603",
+    "productType": "ZF01",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367002499",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367003342",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367015277",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367020042",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367020783",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367020790",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367023128",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367023135",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367023142",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367023159",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367028659",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367031635",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367039303",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  },
+  {
+    "material": "S8907367759287",
+    "productType": "ZFS1",
+    "baseUnit": "PC",
+    "weightUnit": "KG"
+  }
+]

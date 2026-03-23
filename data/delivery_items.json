@@ -1,0 +1,1098 @@
+[
+  {
+    "deliveryDocument": "80738076",
+    "item": "000010",
+    "salesOrder": "740556",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738076",
+    "item": "000020",
+    "salesOrder": "740556",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738076",
+    "item": "000030",
+    "salesOrder": "740556",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738076",
+    "item": "000040",
+    "salesOrder": "740556",
+    "salesOrderItem": "000040",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738076",
+    "item": "000050",
+    "salesOrder": "740556",
+    "salesOrderItem": "000050",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738077",
+    "item": "000010",
+    "salesOrder": "740557",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738077",
+    "item": "000020",
+    "salesOrder": "740557",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738077",
+    "item": "000030",
+    "salesOrder": "740557",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738077",
+    "item": "000040",
+    "salesOrder": "740557",
+    "salesOrderItem": "000040",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738077",
+    "item": "000050",
+    "salesOrder": "740557",
+    "salesOrderItem": "000050",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738078",
+    "item": "000010",
+    "salesOrder": "740558",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738079",
+    "item": "000010",
+    "salesOrder": "740559",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738080",
+    "item": "000010",
+    "salesOrder": "740560",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738081",
+    "item": "000010",
+    "salesOrder": "740561",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738082",
+    "item": "000010",
+    "salesOrder": "740562",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738082",
+    "item": "000020",
+    "salesOrder": "740562",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738083",
+    "item": "000010",
+    "salesOrder": "740563",
+    "salesOrderItem": "000010",
+    "quantity": 2,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738084",
+    "item": "000010",
+    "salesOrder": "740564",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738084",
+    "item": "000020",
+    "salesOrder": "740564",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738084",
+    "item": "000030",
+    "salesOrder": "740564",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738084",
+    "item": "000040",
+    "salesOrder": "740564",
+    "salesOrderItem": "000040",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738084",
+    "item": "000050",
+    "salesOrder": "740564",
+    "salesOrderItem": "000050",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738084",
+    "item": "000060",
+    "salesOrder": "740564",
+    "salesOrderItem": "000060",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738085",
+    "item": "000010",
+    "salesOrder": "740565",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738086",
+    "item": "000010",
+    "salesOrder": "740566",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738087",
+    "item": "000010",
+    "salesOrder": "740567",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738088",
+    "item": "000010",
+    "salesOrder": "740568",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738089",
+    "item": "000010",
+    "salesOrder": "740569",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738090",
+    "item": "000010",
+    "salesOrder": "740570",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738091",
+    "item": "000010",
+    "salesOrder": "740571",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738092",
+    "item": "000010",
+    "salesOrder": "740572",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738093",
+    "item": "000010",
+    "salesOrder": "740573",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738093",
+    "item": "000020",
+    "salesOrder": "740573",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738094",
+    "item": "000010",
+    "salesOrder": "740574",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738094",
+    "item": "000020",
+    "salesOrder": "740574",
+    "salesOrderItem": "000020",
+    "quantity": 2,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738095",
+    "item": "000010",
+    "salesOrder": "740575",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738096",
+    "item": "000010",
+    "salesOrder": "740576",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738097",
+    "item": "000010",
+    "salesOrder": "740577",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738098",
+    "item": "000010",
+    "salesOrder": "740578",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738099",
+    "item": "000010",
+    "salesOrder": "740579",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738100",
+    "item": "000010",
+    "salesOrder": "740580",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738101",
+    "item": "000010",
+    "salesOrder": "740581",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738102",
+    "item": "000010",
+    "salesOrder": "740582",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738103",
+    "item": "000010",
+    "salesOrder": "740583",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738104",
+    "item": "000010",
+    "salesOrder": "740586",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738105",
+    "item": "000010",
+    "salesOrder": "740587",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738106",
+    "item": "000010",
+    "salesOrder": "740590",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738107",
+    "item": "000010",
+    "salesOrder": "740592",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738108",
+    "item": "000010",
+    "salesOrder": "740595",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738109",
+    "item": "000010",
+    "salesOrder": "740598",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738109",
+    "item": "000020",
+    "salesOrder": "740598",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738109",
+    "item": "000030",
+    "salesOrder": "740598",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738109",
+    "item": "000040",
+    "salesOrder": "740598",
+    "salesOrderItem": "000040",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738110",
+    "item": "000010",
+    "salesOrder": "740601",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738111",
+    "item": "000010",
+    "salesOrder": "740604",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738111",
+    "item": "000020",
+    "salesOrder": "740604",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738111",
+    "item": "000030",
+    "salesOrder": "740604",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738111",
+    "item": "000040",
+    "salesOrder": "740604",
+    "salesOrderItem": "000040",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80737721",
+    "item": "000010",
+    "salesOrder": "740506",
+    "salesOrderItem": "000010",
+    "quantity": 48,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737721",
+    "item": "000020",
+    "salesOrder": "740506",
+    "salesOrderItem": "000020",
+    "quantity": 10,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737721",
+    "item": "000030",
+    "salesOrder": "740506",
+    "salesOrderItem": "000030",
+    "quantity": 8,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737721",
+    "item": "000040",
+    "salesOrder": "740506",
+    "salesOrderItem": "000040",
+    "quantity": 4,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737721",
+    "item": "000050",
+    "salesOrder": "740506",
+    "salesOrderItem": "000050",
+    "quantity": 11,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737722",
+    "item": "000010",
+    "salesOrder": "740507",
+    "salesOrderItem": "000010",
+    "quantity": 24,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737722",
+    "item": "000020",
+    "salesOrder": "740507",
+    "salesOrderItem": "000020",
+    "quantity": 15,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737722",
+    "item": "000030",
+    "salesOrder": "740507",
+    "salesOrderItem": "000030",
+    "quantity": 34,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737722",
+    "item": "000040",
+    "salesOrder": "740507",
+    "salesOrderItem": "000040",
+    "quantity": 17,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737723",
+    "item": "000010",
+    "salesOrder": "740508",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737723",
+    "item": "000020",
+    "salesOrder": "740508",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737723",
+    "item": "000030",
+    "salesOrder": "740508",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737723",
+    "item": "000040",
+    "salesOrder": "740508",
+    "salesOrderItem": "000040",
+    "quantity": 1,
+    "plant": "1920"
+  },
+  {
+    "deliveryDocument": "80737921",
+    "item": "000010",
+    "salesOrder": "740545",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "KA05"
+  },
+  {
+    "deliveryDocument": "80737922",
+    "item": "000010",
+    "salesOrder": "740546",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "MH05"
+  },
+  {
+    "deliveryDocument": "80738040",
+    "item": "000010",
+    "salesOrder": "740509",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738041",
+    "item": "000010",
+    "salesOrder": "740510",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738042",
+    "item": "000010",
+    "salesOrder": "740511",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738043",
+    "item": "000010",
+    "salesOrder": "740512",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738044",
+    "item": "000010",
+    "salesOrder": "740513",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738045",
+    "item": "000010",
+    "salesOrder": "740514",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738046",
+    "item": "000010",
+    "salesOrder": "740515",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738047",
+    "item": "000010",
+    "salesOrder": "740516",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738047",
+    "item": "000020",
+    "salesOrder": "740516",
+    "salesOrderItem": "000020",
+    "quantity": 2,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738048",
+    "item": "000010",
+    "salesOrder": "740517",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738049",
+    "item": "000010",
+    "salesOrder": "740518",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738050",
+    "item": "000010",
+    "salesOrder": "740519",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738051",
+    "item": "000010",
+    "salesOrder": "740520",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738052",
+    "item": "000010",
+    "salesOrder": "740521",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738053",
+    "item": "000010",
+    "salesOrder": "740522",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738054",
+    "item": "000010",
+    "salesOrder": "740523",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738055",
+    "item": "000010",
+    "salesOrder": "740524",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738056",
+    "item": "000010",
+    "salesOrder": "740525",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738057",
+    "item": "000010",
+    "salesOrder": "740526",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738058",
+    "item": "000010",
+    "salesOrder": "740527",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738058",
+    "item": "000020",
+    "salesOrder": "740527",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738059",
+    "item": "000010",
+    "salesOrder": "740528",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738060",
+    "item": "000010",
+    "salesOrder": "740529",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738061",
+    "item": "000010",
+    "salesOrder": "740530",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738062",
+    "item": "000010",
+    "salesOrder": "740531",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738063",
+    "item": "000010",
+    "salesOrder": "740534",
+    "salesOrderItem": "000010",
+    "quantity": 2,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738064",
+    "item": "000010",
+    "salesOrder": "740536",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738065",
+    "item": "000010",
+    "salesOrder": "740538",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738066",
+    "item": "000010",
+    "salesOrder": "740540",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738067",
+    "item": "000010",
+    "salesOrder": "740547",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738068",
+    "item": "000010",
+    "salesOrder": "740548",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000010",
+    "salesOrder": "740549",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000020",
+    "salesOrder": "740549",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000030",
+    "salesOrder": "740549",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000040",
+    "salesOrder": "740549",
+    "salesOrderItem": "000040",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000050",
+    "salesOrder": "740549",
+    "salesOrderItem": "000050",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000060",
+    "salesOrder": "740549",
+    "salesOrderItem": "000060",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000070",
+    "salesOrder": "740549",
+    "salesOrderItem": "000070",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000080",
+    "salesOrder": "740549",
+    "salesOrderItem": "000080",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000090",
+    "salesOrder": "740549",
+    "salesOrderItem": "000090",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000100",
+    "salesOrder": "740549",
+    "salesOrderItem": "000100",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000110",
+    "salesOrder": "740549",
+    "salesOrderItem": "000110",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738069",
+    "item": "000120",
+    "salesOrder": "740549",
+    "salesOrderItem": "000120",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738070",
+    "item": "000010",
+    "salesOrder": "740550",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738071",
+    "item": "000010",
+    "salesOrder": "740551",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738072",
+    "item": "000010",
+    "salesOrder": "740552",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738073",
+    "item": "000010",
+    "salesOrder": "740553",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738073",
+    "item": "000020",
+    "salesOrder": "740553",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738074",
+    "item": "000010",
+    "salesOrder": "740554",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738075",
+    "item": "000010",
+    "salesOrder": "740555",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738075",
+    "item": "000020",
+    "salesOrder": "740555",
+    "salesOrderItem": "000020",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80738075",
+    "item": "000030",
+    "salesOrder": "740555",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "WB05"
+  },
+  {
+    "deliveryDocument": "80754574",
+    "item": "000010",
+    "salesOrder": "740532",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754575",
+    "item": "000010",
+    "salesOrder": "740543",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754576",
+    "item": "000010",
+    "salesOrder": "740544",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754601",
+    "item": "000010",
+    "salesOrder": "740533",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754601",
+    "item": "000020",
+    "salesOrder": "740533",
+    "salesOrderItem": "000020",
+    "quantity": 2,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754602",
+    "item": "000010",
+    "salesOrder": "740535",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754603",
+    "item": "000010",
+    "salesOrder": "740537",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754604",
+    "item": "000010",
+    "salesOrder": "740539",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754605",
+    "item": "000010",
+    "salesOrder": "740541",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754606",
+    "item": "000010",
+    "salesOrder": "740542",
+    "salesOrderItem": "000010",
+    "quantity": 1,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754606",
+    "item": "000020",
+    "salesOrder": "740542",
+    "salesOrderItem": "000020",
+    "quantity": 2,
+    "plant": "1301"
+  },
+  {
+    "deliveryDocument": "80754606",
+    "item": "000030",
+    "salesOrder": "740542",
+    "salesOrderItem": "000030",
+    "quantity": 1,
+    "plant": "1301"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "salesOrder": "740506",
+    "soldToParty": "310000108",
+    "totalNetAmount": 17108.25,
+    "currency": "INR",
+    "creationDate": "2025-03-31T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740507",
+    "soldToParty": "310000109",
+    "totalNetAmount": 19021.27,
+    "currency": "INR",
+    "creationDate": "2025-03-31T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740508",
+    "soldToParty": "310000109",
+    "totalNetAmount": 883.88,
+    "currency": "INR",
+    "creationDate": "2025-03-31T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740509",
+    "soldToParty": "320000083",
+    "totalNetAmount": 229.66,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740510",
+    "soldToParty": "320000083",
+    "totalNetAmount": 221.19,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740511",
+    "soldToParty": "320000083",
+    "totalNetAmount": 250,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740512",
+    "soldToParty": "320000083",
+    "totalNetAmount": 249.15,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740513",
+    "soldToParty": "320000083",
+    "totalNetAmount": 363.56,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740514",
+    "soldToParty": "320000083",
+    "totalNetAmount": 363.56,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740515",
+    "soldToParty": "320000083",
+    "totalNetAmount": 363.56,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740516",
+    "soldToParty": "320000083",
+    "totalNetAmount": 272.88,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740517",
+    "soldToParty": "320000083",
+    "totalNetAmount": 363.56,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740518",
+    "soldToParty": "320000083",
+    "totalNetAmount": 363.56,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740519",
+    "soldToParty": "320000083",
+    "totalNetAmount": 329.66,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740520",
+    "soldToParty": "320000083",
+    "totalNetAmount": 253.39,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740521",
+    "soldToParty": "320000083",
+    "totalNetAmount": 363.56,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740522",
+    "soldToParty": "320000083",
+    "totalNetAmount": 329.66,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740523",
+    "soldToParty": "320000083",
+    "totalNetAmount": 363.56,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740524",
+    "soldToParty": "320000083",
+    "totalNetAmount": 253.39,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740525",
+    "soldToParty": "320000083",
+    "totalNetAmount": 215.25,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740526",
+    "soldToParty": "320000083",
+    "totalNetAmount": 185.59,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740527",
+    "soldToParty": "320000083",
+    "totalNetAmount": 449.24,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740528",
+    "soldToParty": "320000083",
+    "totalNetAmount": 253.39,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740529",
+    "soldToParty": "320000083",
+    "totalNetAmount": 216.1,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740530",
+    "soldToParty": "320000083",
+    "totalNetAmount": 179.66,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740531",
+    "soldToParty": "320000083",
+    "totalNetAmount": 215.25,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740532",
+    "soldToParty": "320000082",
+    "totalNetAmount": 167,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740533",
+    "soldToParty": "320000082",
+    "totalNetAmount": 382.9,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740534",
+    "soldToParty": "320000083",
+    "totalNetAmount": 310.76,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740535",
+    "soldToParty": "320000082",
+    "totalNetAmount": 179,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740536",
+    "soldToParty": "320000083",
+    "totalNetAmount": 168.64,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740537",
+    "soldToParty": "320000082",
+    "totalNetAmount": 245.9,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740538",
+    "soldToParty": "320000083",
+    "totalNetAmount": 287.29,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740539",
+    "soldToParty": "320000082",
+    "totalNetAmount": 254,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740540",
+    "soldToParty": "320000083",
+    "totalNetAmount": 253.39,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740541",
+    "soldToParty": "320000082",
+    "totalNetAmount": 299,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740542",
+    "soldToParty": "320000082",
+    "totalNetAmount": 589.95,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740543",
+    "soldToParty": "320000082",
+    "totalNetAmount": 245.9,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740544",
+    "soldToParty": "320000082",
+    "totalNetAmount": 287.9,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740545",
+    "soldToParty": "320000088",
+    "totalNetAmount": 179.66,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740546",
+    "soldToParty": "320000085",
+    "totalNetAmount": 221.19,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740547",
+    "soldToParty": "320000083",
+    "totalNetAmount": 180.34,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740548",
+    "soldToParty": "320000083",
+    "totalNetAmount": 151.69,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740549",
+    "soldToParty": "320000083",
+    "totalNetAmount": 2033.65,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740550",
+    "soldToParty": "320000083",
+    "totalNetAmount": 329.66,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740551",
+    "soldToParty": "320000083",
+    "totalNetAmount": 221.19,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740552",
+    "soldToParty": "320000083",
+    "totalNetAmount": 216.1,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740553",
+    "soldToParty": "320000083",
+    "totalNetAmount": 561.14,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740554",
+    "soldToParty": "320000083",
+    "totalNetAmount": 422.88,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740555",
+    "soldToParty": "320000083",
+    "totalNetAmount": 429.66,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740556",
+    "soldToParty": "320000083",
+    "totalNetAmount": 439.83,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740557",
+    "soldToParty": "320000083",
+    "totalNetAmount": 439.83,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740558",
+    "soldToParty": "320000083",
+    "totalNetAmount": 179.66,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740559",
+    "soldToParty": "320000083",
+    "totalNetAmount": 375.42,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740560",
+    "soldToParty": "320000083",
+    "totalNetAmount": 253.39,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740561",
+    "soldToParty": "320000083",
+    "totalNetAmount": 422.03,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740562",
+    "soldToParty": "320000083",
+    "totalNetAmount": 843.73,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740563",
+    "soldToParty": "320000083",
+    "totalNetAmount": 481.44,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740564",
+    "soldToParty": "320000083",
+    "totalNetAmount": 761.86,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740565",
+    "soldToParty": "320000083",
+    "totalNetAmount": 422.03,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740566",
+    "soldToParty": "320000083",
+    "totalNetAmount": 337.29,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740567",
+    "soldToParty": "320000083",
+    "totalNetAmount": 191.53,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740568",
+    "soldToParty": "320000083",
+    "totalNetAmount": 455.93,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740569",
+    "soldToParty": "320000083",
+    "totalNetAmount": 422.03,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740570",
+    "soldToParty": "320000083",
+    "totalNetAmount": 422.03,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740571",
+    "soldToParty": "320000083",
+    "totalNetAmount": 253.39,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740572",
+    "soldToParty": "320000083",
+    "totalNetAmount": 215.25,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740573",
+    "soldToParty": "320000083",
+    "totalNetAmount": 842.93,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740574",
+    "soldToParty": "320000083",
+    "totalNetAmount": 327.97,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740575",
+    "soldToParty": "320000083",
+    "totalNetAmount": 215.25,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740576",
+    "soldToParty": "320000083",
+    "totalNetAmount": 473.73,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740577",
+    "soldToParty": "320000083",
+    "totalNetAmount": 464.41,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740578",
+    "soldToParty": "320000083",
+    "totalNetAmount": 464.41,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740579",
+    "soldToParty": "320000083",
+    "totalNetAmount": 464.41,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740580",
+    "soldToParty": "320000083",
+    "totalNetAmount": 464.41,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740581",
+    "soldToParty": "320000083",
+    "totalNetAmount": 205.93,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740582",
+    "soldToParty": "320000083",
+    "totalNetAmount": 216.1,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740583",
+    "soldToParty": "320000083",
+    "totalNetAmount": 216.1,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740584",
+    "soldToParty": "320000108",
+    "totalNetAmount": 150.85,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740585",
+    "soldToParty": "320000107",
+    "totalNetAmount": 177.97,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740586",
+    "soldToParty": "320000083",
+    "totalNetAmount": 422.03,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740587",
+    "soldToParty": "320000083",
+    "totalNetAmount": 464.41,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740588",
+    "soldToParty": "320000108",
+    "totalNetAmount": 118.65,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740589",
+    "soldToParty": "320000107",
+    "totalNetAmount": 131.31,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740590",
+    "soldToParty": "320000083",
+    "totalNetAmount": 464.41,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740591",
+    "soldToParty": "320000108",
+    "totalNetAmount": 303.39,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740592",
+    "soldToParty": "320000083",
+    "totalNetAmount": 634.75,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740593",
+    "soldToParty": "320000107",
+    "totalNetAmount": 422.04,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740594",
+    "soldToParty": "320000108",
+    "totalNetAmount": 337.29,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740595",
+    "soldToParty": "320000083",
+    "totalNetAmount": 215.25,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740596",
+    "soldToParty": "320000108",
+    "totalNetAmount": 202.54,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740597",
+    "soldToParty": "320000107",
+    "totalNetAmount": 118.64,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740598",
+    "soldToParty": "320000083",
+    "totalNetAmount": 533.05,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740599",
+    "soldToParty": "320000108",
+    "totalNetAmount": 202.56,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740600",
+    "soldToParty": "320000107",
+    "totalNetAmount": 169.49,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740601",
+    "soldToParty": "320000083",
+    "totalNetAmount": 464.41,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740602",
+    "soldToParty": "320000107",
+    "totalNetAmount": 131.38,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740603",
+    "soldToParty": "320000108",
+    "totalNetAmount": 133.9,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740604",
+    "soldToParty": "320000083",
+    "totalNetAmount": 1091.53,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "C",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  },
+  {
+    "salesOrder": "740605",
+    "soldToParty": "320000107",
+    "totalNetAmount": 435.57,
+    "currency": "INR",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "deliveryStatus": "A",
+    "billingStatus": "",
+    "salesOrderType": "OR"
+  }
+]

@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Environment variables (NEVER commit this)
+.env.local
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

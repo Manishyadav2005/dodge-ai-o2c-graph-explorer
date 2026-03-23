@@ -1,0 +1,690 @@
+[
+  {
+    "deliveryDocument": "80737721",
+    "creationDate": "2025-03-31T00:00:00.000Z",
+    "shippingPoint": "1920",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80737722",
+    "creationDate": "2025-03-31T00:00:00.000Z",
+    "shippingPoint": "1920",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80737723",
+    "creationDate": "2025-03-31T00:00:00.000Z",
+    "shippingPoint": "1920",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80737921",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "KA05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80737922",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "MH05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738040",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738041",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738042",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738043",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738044",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738045",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738046",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738047",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738048",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738049",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738050",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738051",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738052",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738053",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738054",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738055",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738056",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738057",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738058",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738059",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738060",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738061",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738062",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738063",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738064",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738065",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738066",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738067",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738068",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738069",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738070",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738071",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738073",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738074",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738075",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738076",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738077",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738078",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738079",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738080",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738081",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738082",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738083",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738084",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738085",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738086",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738087",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738088",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738089",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738090",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738091",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738092",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738093",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738094",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738095",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738096",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738097",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738098",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738099",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738100",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738101",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738102",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738103",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738104",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738105",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738106",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738107",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738108",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738109",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738110",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738111",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754575",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "C",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754576",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "C",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754574",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754601",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754602",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754603",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754604",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754605",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80754606",
+    "creationDate": "2025-04-07T00:00:00.000Z",
+    "shippingPoint": "1301",
+    "goodsMovementStatus": "A",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  },
+  {
+    "deliveryDocument": "80738072",
+    "creationDate": "2025-04-02T00:00:00.000Z",
+    "shippingPoint": "WB05",
+    "goodsMovementStatus": "C",
+    "pickingStatus": "C",
+    "deliveryBlockReason": ""
+  }
+]

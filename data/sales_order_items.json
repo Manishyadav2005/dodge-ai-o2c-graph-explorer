@@ -1,0 +1,1672 @@
+[
+  {
+    "salesOrder": "740506",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 48,
+    "unit": "PC",
+    "netAmount": 9966.1,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740506",
+    "item": "20",
+    "material": "S8907367000327",
+    "quantity": 10,
+    "unit": "PC",
+    "netAmount": 2366.95,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740506",
+    "item": "30",
+    "material": "S8907367020073",
+    "quantity": 8,
+    "unit": "PC",
+    "netAmount": 1181.69,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740506",
+    "item": "40",
+    "material": "S8907367025344",
+    "quantity": 4,
+    "unit": "PC",
+    "netAmount": 709.49,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740506",
+    "item": "50",
+    "material": "S8907367035664",
+    "quantity": 11,
+    "unit": "PC",
+    "netAmount": 2884.02,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740507",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 24,
+    "unit": "PC",
+    "netAmount": 4983.05,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740507",
+    "item": "20",
+    "material": "S8907367000327",
+    "quantity": 15,
+    "unit": "PC",
+    "netAmount": 3550.42,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740507",
+    "item": "30",
+    "material": "S8907367025344",
+    "quantity": 34,
+    "unit": "PC",
+    "netAmount": 6030.68,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740507",
+    "item": "40",
+    "material": "S8907367035664",
+    "quantity": 17,
+    "unit": "PC",
+    "netAmount": 4457.12,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740508",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 207.63,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740508",
+    "item": "20",
+    "material": "S8907367000327",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 236.69,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740508",
+    "item": "30",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 177.37,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740508",
+    "item": "40",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 262.19,
+    "currency": "INR",
+    "plant": "1920"
+  },
+  {
+    "salesOrder": "740509",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 229.66,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740510",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 221.19,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740511",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 250,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740512",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 249.15,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740513",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 363.56,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740514",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 363.56,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740515",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 363.56,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740516",
+    "item": "10",
+    "material": "B8907367032571",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 272.88,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740516",
+    "item": "20",
+    "material": "S8907367025412",
+    "quantity": 2,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740517",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 363.56,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740518",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 363.56,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740519",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 329.66,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740520",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 253.39,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740521",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 363.56,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740522",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 329.66,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740523",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 363.56,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740524",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 253.39,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740525",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 215.25,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740526",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 185.59,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740527",
+    "item": "10",
+    "material": "S8907367038108",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 208.52,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740527",
+    "item": "20",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 240.72,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740528",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 253.39,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740529",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 216.1,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740530",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 179.66,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740531",
+    "item": "10",
+    "material": "S8907367004448",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 215.25,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740532",
+    "item": "10",
+    "material": "S8907367013587",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 167,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740533",
+    "item": "10",
+    "material": "B8907367022152",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 382.9,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740533",
+    "item": "20",
+    "material": "S8907367011866",
+    "quantity": 2,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740534",
+    "item": "10",
+    "material": "S8907367026433",
+    "quantity": 2,
+    "unit": "PC",
+    "netAmount": 310.76,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740535",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 179,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740536",
+    "item": "10",
+    "material": "S8907367028192",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 168.64,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740537",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 245.9,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740538",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 287.29,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740539",
+    "item": "10",
+    "material": "S8907367004448",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 254,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740540",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 253.39,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740541",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 299,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740542",
+    "item": "10",
+    "material": "B8907367032571",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 305.9,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740542",
+    "item": "20",
+    "material": "S8907367025412",
+    "quantity": 2,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740542",
+    "item": "30",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 284.05,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740543",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 245.9,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740544",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 287.9,
+    "currency": "INR",
+    "plant": "1301"
+  },
+  {
+    "salesOrder": "740545",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 179.66,
+    "currency": "INR",
+    "plant": "KA05"
+  },
+  {
+    "salesOrder": "740546",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 221.19,
+    "currency": "INR",
+    "plant": "MH05"
+  },
+  {
+    "salesOrder": "740547",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 180.34,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740548",
+    "item": "10",
+    "material": "S8907367025344",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 151.69,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "10",
+    "material": "B8907367002246",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 1301.82,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "20",
+    "material": "S8907367001836",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "30",
+    "material": "S8907367001874",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "40",
+    "material": "3001468",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "50",
+    "material": "S8907367001850",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "60",
+    "material": "S8907367001843",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "70",
+    "material": "3001456",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "80",
+    "material": "S8907367001867",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "90",
+    "material": "S8907367002550",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "100",
+    "material": "S8907367038108",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 208.52,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "110",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 210.13,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740549",
+    "item": "120",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 313.18,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740550",
+    "item": "10",
+    "material": "S8907367039280",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 329.66,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740551",
+    "item": "10",
+    "material": "S8907367038122",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 221.19,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740552",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 216.1,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740553",
+    "item": "10",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 320.42,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740553",
+    "item": "20",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 240.72,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740554",
+    "item": "10",
+    "material": "S8907367041993",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 422.88,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740555",
+    "item": "10",
+    "material": "B8907367015697",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 429.66,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740555",
+    "item": "20",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740555",
+    "item": "30",
+    "material": "S8907367014447",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740556",
+    "item": "10",
+    "material": "B8907367037859",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 439.83,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740556",
+    "item": "20",
+    "material": "S8907367035978",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740556",
+    "item": "30",
+    "material": "S8907367035992",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740556",
+    "item": "40",
+    "material": "S8907367035985",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740556",
+    "item": "50",
+    "material": "S8907367035961",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740557",
+    "item": "10",
+    "material": "B8907367037859",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 439.83,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740557",
+    "item": "20",
+    "material": "S8907367035961",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740557",
+    "item": "30",
+    "material": "S8907367035978",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740557",
+    "item": "40",
+    "material": "S8907367035985",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740557",
+    "item": "50",
+    "material": "S8907367035992",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740558",
+    "item": "10",
+    "material": "S8907367013532",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 179.66,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740559",
+    "item": "10",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 375.42,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740560",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 253.39,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740561",
+    "item": "10",
+    "material": "S8907367037156",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 422.03,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740562",
+    "item": "10",
+    "material": "S8907367003380",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 240.72,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740562",
+    "item": "20",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 603.01,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740563",
+    "item": "10",
+    "material": "S8907367008620",
+    "quantity": 2,
+    "unit": "PC",
+    "netAmount": 481.44,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740564",
+    "item": "10",
+    "material": "B8907367037842",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 761.86,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740564",
+    "item": "20",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740564",
+    "item": "30",
+    "material": "S8907367036722",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740564",
+    "item": "40",
+    "material": "S8907367029021",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740564",
+    "item": "50",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740564",
+    "item": "60",
+    "material": "S8907367029038",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740565",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 422.03,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740566",
+    "item": "10",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 337.29,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740567",
+    "item": "10",
+    "material": "S8907367014867",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 191.53,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740568",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 455.93,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740569",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 422.03,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740570",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 422.03,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740571",
+    "item": "10",
+    "material": "S8907367003380",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 253.39,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740572",
+    "item": "10",
+    "material": "S8907367003311",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 215.25,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740573",
+    "item": "10",
+    "material": "S8907367041993",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 401.74,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740573",
+    "item": "20",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 441.19,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740574",
+    "item": "10",
+    "material": "B8907367032649",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 327.97,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740574",
+    "item": "20",
+    "material": "S8907367013082",
+    "quantity": 2,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740575",
+    "item": "10",
+    "material": "S8907367003311",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 215.25,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740576",
+    "item": "10",
+    "material": "S8907367039303",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 473.73,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740577",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 464.41,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740578",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 464.41,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740579",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 464.41,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740580",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 464.41,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740581",
+    "item": "10",
+    "material": "S8907367002499",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 205.93,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740582",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 216.1,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740583",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 216.1,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740584",
+    "item": "10",
+    "material": "S8907367759287",
+    "quantity": 2,
+    "unit": "PC",
+    "netAmount": 150.85,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740585",
+    "item": "10",
+    "material": "S8907367003342",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 177.97,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740586",
+    "item": "10",
+    "material": "S8907367031635",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 422.03,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740587",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 464.41,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740588",
+    "item": "10",
+    "material": "S8907367020790",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 118.65,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740589",
+    "item": "10",
+    "material": "B8907367024125",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 131.31,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740589",
+    "item": "20",
+    "material": "S8907367023128",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740589",
+    "item": "30",
+    "material": "S8907367023159",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740589",
+    "item": "40",
+    "material": "S8907367023135",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740589",
+    "item": "50",
+    "material": "S8907367023142",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740590",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 464.41,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740591",
+    "item": "10",
+    "material": "B8907367028406",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 303.39,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740591",
+    "item": "20",
+    "material": "S8907367020790",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740591",
+    "item": "30",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740592",
+    "item": "10",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 634.75,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740593",
+    "item": "10",
+    "material": "S8907367035664",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 422.04,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740594",
+    "item": "10",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 337.29,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740595",
+    "item": "10",
+    "material": "S8907367002512",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 215.25,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740596",
+    "item": "10",
+    "material": "S8907367001003",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 202.54,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740597",
+    "item": "10",
+    "material": "S8907367020790",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 118.64,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740598",
+    "item": "10",
+    "material": "B8907367041603",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 533.05,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740598",
+    "item": "20",
+    "material": "S8907367016144",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740598",
+    "item": "30",
+    "material": "S8907367029021",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740598",
+    "item": "40",
+    "material": "S8907367010814",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740599",
+    "item": "10",
+    "material": "B8907367022787",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 202.56,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740599",
+    "item": "20",
+    "material": "S8907367020783",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740599",
+    "item": "30",
+    "material": "S8907367020790",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740600",
+    "item": "10",
+    "material": "S8907367028659",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 169.49,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740601",
+    "item": "10",
+    "material": "S8907367042006",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 464.41,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740602",
+    "item": "10",
+    "material": "B8907367024125",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 131.38,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740602",
+    "item": "20",
+    "material": "S8907367023128",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740602",
+    "item": "30",
+    "material": "S8907367023159",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740602",
+    "item": "40",
+    "material": "S8907367023142",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740602",
+    "item": "50",
+    "material": "S8907367023135",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740603",
+    "item": "10",
+    "material": "S8907367013587",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 133.9,
+    "currency": "INR",
+    "plant": "TM05"
+  },
+  {
+    "salesOrder": "740604",
+    "item": "10",
+    "material": "B8907367039570",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 1091.53,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740604",
+    "item": "20",
+    "material": "S8907367015277",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740604",
+    "item": "30",
+    "material": "S8907367020035",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740604",
+    "item": "40",
+    "material": "S8907367020042",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "WB05"
+  },
+  {
+    "salesOrder": "740605",
+    "item": "10",
+    "material": "B8907367037859",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 435.57,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740605",
+    "item": "20",
+    "material": "S8907367035992",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740605",
+    "item": "30",
+    "material": "S8907367035978",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740605",
+    "item": "40",
+    "material": "S8907367035985",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  },
+  {
+    "salesOrder": "740605",
+    "item": "50",
+    "material": "S8907367035961",
+    "quantity": 1,
+    "unit": "PC",
+    "netAmount": 0,
+    "currency": "INR",
+    "plant": "1302"
+  }
+]
